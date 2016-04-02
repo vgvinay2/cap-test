@@ -9,3 +9,4 @@ class ApplicationController < ActionController::Base
 
 end
 I ma here @vinat
+i mam again here
