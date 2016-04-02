@@ -8,5 +8,4 @@ class ApplicationController < ActionController::Base
   end
 
 end
-I ma here @vinat
 i mam again here
